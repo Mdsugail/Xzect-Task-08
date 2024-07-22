@@ -342,7 +342,7 @@ export default function Home() {
             you with any queries or issues you may encounter. We're here to help,
             and we look forward to hearing from you!
           </p>
-          <button className="btn btn-danger mt-4 px-5 py-3 side-btn" data-aos="fade-left">
+          <button className="btn btn-danger mt-4 px-5 py-3 side-btn">
             Submit A Ticket
           </button>
         </div>
@@ -394,7 +394,7 @@ export default function Home() {
             <span className="h4 fw-bold ms-2">GoDocs</span>
           </div>
           <div className="col-12 col-md-4 text-center text-md-end">
-            <ul className="list-inline" data-aos="fade-left">
+            <ul className="list-inline" data-aos="fade-right">
               <li className="footer-social list-inline-item pe-4" >
                 <a href="#" className="text-muted ">
                 <FontAwesomeIcon icon={faFacebook} style={{color: "antiquewhite",}} />
